@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "mdp",
+		"Description": "adds support to running files in mdp to test out presentation changes",
+		"Tags": ["mdp"],
+		"Versions": [
+			{
+				"Version": "1.0.0",
+				"Url": "https://github.com/samdmarshall/micro-mdp-plugin/archive/v1.0.0.zip",
+				"Require": {
+					"micro": ">=1.1.2"
+				}
+			}
+		]
+	}
+]
